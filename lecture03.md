@@ -20,6 +20,13 @@
 + Rails構成管理ツール
 ![Rails構成管理ツール](./pictures/Rails構成管理ツール.png)
 
+
+
++ 追加分：アプリケーション画面スクリーンショット
+![appfront.png](./pictures/appfront.png)
+![appback.png](./pictures/appback.png)
+
+
 ## 学んだこと
 見よう見まねでデプロイ作業に取り組んだが、一通り作業を完了させると
 全体像がみえてきて、理解が進んだと感じられました。手を動かしてみるのが大事だと思いました。
